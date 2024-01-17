@@ -11,4 +11,4 @@ Delete the data that created in a specific path by using the crontab
 #### Knowledge
 - Linux crontab setting
 - Meaning of file permissions
-- Create the code to release account permission from the group
+- Creating the code to release account permission from the group
